@@ -1,0 +1,194 @@
+{
+	'id': 64418, 
+	'summary': 'Automate BTX-APP02 Startup', 
+	'recordType': 'ServiceTicket', 
+	'board': {
+		'id': 22, 
+		'name': 'Service Requests', 
+		'_info': {
+			board_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/service/boards/22'
+		}
+	}, 
+	'status': {
+		'id': 207, 
+		'name': 'In Progress', 
+		'_info': {
+			'status_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/service/boards/22/statuses/207'
+		}
+	}, 
+	'company': {
+		'id': 2924, 
+		'identifier': 'biotheranostics', 
+		'name': 'Biotheranostics, Inc. ', 
+		'_info': {
+			'company_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/company/companies/2924', 
+			'mobileGuid': '28624bd8-230c-476c-9248-044bca48e60e'
+		}
+	}, 
+	'site': {
+		'id': 3623, 
+		'name': 'Main', 
+		'_info': {
+			'site_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/company/companies/2924/sites/3623', 
+			'mobileGuid': '8c297224-14e1-487e-9e50-507da39a8e71'
+		}
+	}, 
+	'siteName': 'Main', 
+	'addressLine1': '9620 Towne Centre Drive, Suite 200', 
+	'city': 'San Diego', 
+	'zip': '92121', 
+	'country': {
+		'id': 1, 
+		'name': 'United States', 
+		'_info': {
+			'country_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/company/countries/1'
+		}
+	}, 
+	'contact': {
+		'id': 6264, 
+		'name': 'John Childs', 
+		'_info': {
+			'mobileGuid': '134256df-f727-439b-ac7e-38211ee9b96e', 
+			'contact_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/company/contacts/6264'
+		}
+	}, 
+	'contactName': 'John Childs', 
+	'contactPhoneNumber': '8582408914', 
+	'contactEmailAddress': 'john.childs@biotheranostics.com', 
+	'type': {
+		'id': 160, 
+		'name': 'Level 4', 
+		'_info': {
+			'type_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/service/boards/22/types/160'
+		}
+	}, 
+	'subType': {
+		'id': 9, 
+		'name': 'Server', 
+		'_info': {
+			'subType_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/service/boards/22/subtypes/9'
+		}
+	}, 
+	'team': {
+		'id': 40, 
+		'name': 'X - Managed Services', 
+		'_info': {
+			'team_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/service/boards/22/teams/40'
+		}
+	}, 
+	'priority': {
+		'id': 4, 
+		'name': 'Priority 3 - Medium', 
+		'sort': 6, 
+		'_info': {
+			'priority_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/service/priorities/4', 
+			'image_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/service/priorities/4/image?lm=2018-09-06T22:33:54Z'
+		}
+	}, 
+	'serviceLocation': {
+		'id': 2, 
+		'name': 'In-house', 
+		'_info': {
+			'location_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/service/locations/2'
+		}
+	}, 
+	'source': {
+		'id': 2, 
+		'name': 'Phone', 
+		'_info': {
+			'source_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/service/sources/2'
+		}
+	}, 
+	'agreement': {
+		'id': 631, 
+		'name': 'Workstation Set Up', 
+		'_info': {
+			'agreement_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/finance/agreements/631'
+		}
+	}, 
+	'severity': 'Medium', 
+	'impact': 'Medium', 
+	'allowAllClientsPortalView': False, 
+	'customerUpdatedFlag': False, 
+	'automaticEmailContactFlag': True, 
+	'automaticEmailResourceFlag': True, 
+	'automaticEmailCcFlag': True, 
+	'closedFlag': False, 
+	'actualHours': 2.75, 
+	'approved': True, 
+	'estimatedExpenseCost': 0.0, 
+	'estimatedExpenseRevenue': 0.0, 
+	'estimatedProductCost': 0.0, 
+	'estimatedProductRevenue': 0.0, 
+	'estimatedTimeCost': 0.0, 
+	'estimatedTimeRevenue': 0.0, 
+	'billingMethod': 'ActualRates', 
+	'subBillingMethod': 'ActualRates', 
+	'dateResplan': '2020-04-10T22:36:03Z', 
+	'dateResponded': '2020-04-10T22:36:03Z', 
+	'resolveMinutes': 0, 
+	'resPlanMinutes': 0, 
+	'respondMinutes': 0, 
+	'isInSla': True, 
+	'resources': 'alangford1', 
+	'hasChildTicket': False, 
+	'hasMergedChildTicketFlag': False, 
+	'billTime': 'NoDefault', 
+	'billExpenses': 'NoDefault', 
+	'billProducts': 'Billable', 
+	'location': {
+		'id': 38, 
+		'name': 'Corporate', 
+		'_info': {
+			'location_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/system/locations/38'
+		}
+	}, 
+	'department': {
+		'id': 14, 
+		'identifier': 'Managed Service', 
+		'name': 'Managed Service', 
+		'_info': {
+			'department_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/system/departments/14'
+		}
+	}, 
+	'mobileGuid': '81c7ffe7-31a6-48ee-a50e-e35fd276e240', 
+	'sla': {
+		'id': 3, 
+		'name': 'SPC MSP SLA', 
+		'_info': {
+			'sla_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/service/SLAs/3'
+		}
+	}, 
+	'currency': {
+		'id': 7, 
+		'symbol': '$', 
+		'currencyCode': 'USD', 
+		'decimalSeparator': '.', 
+		'numberOfDecimals': 2, 
+		'thousandsSeparator': ',', 
+		'negativeParenthesesFlag': False, 
+		'displaySymbolFlag': False, 
+		'currencyIdentifier': 'USD', 
+		'displayIdFlag': False, 
+		'rightAlign': False, 
+		'name': 'US Dollars', 
+		'_info': {
+			'currency_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/finance/currencies/7'
+		}
+	}, 
+	'_info': {
+		'lastUpdated': '2020-04-13T22:28:41Z', 
+		'updatedBy': 'alangford1', 
+		'dateEntered': '2020-04-10T22:36:03Z', 
+		'enteredBy': 'sgrilliot', 
+		'activities_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/sales/activities?conditions=ticket/id=64418', 
+		'scheduleentries_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/schedule/entries?conditions=type/id=4 AND objectId=64418', 
+		'documents_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/system/documents?recordType=Ticket&recordId=64418', 
+		'configurations_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/service/tickets/64418/configurations', 
+		'tasks_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/service/tickets/64418/tasks', 
+		'notes_href': 'https://api-na.myconnectwise.net/v4_6_release/apis/3.0/service/tickets/64418/notes', 
+		'products_href': "https://api-na.myconnectwise.net/v4_6_release/apis/3.0/procurement/products?conditions=chargeToType='Ticket' AND chargeToId=64418", 
+		'timeentries_href': "https://api-na.myconnectwise.net/v4_6_release/apis/3.0/time/entries?conditions=(chargeToType='ServiceTicket' OR chargeToType='ProjectTicket') AND chargeToId=64418", 
+		'expenseEntries_href': "https://api-na.myconnectwise.net/v4_6_release/apis/3.0/expense/entries?conditions=(chargeToType='ServiceTicket' OR chargeToType='ProjectTicket') AND chargeToId=64418"
+	}
+}
