@@ -1,2 +1,2 @@
 # thetish
-XCP Finance Automation
+XCP Automation
