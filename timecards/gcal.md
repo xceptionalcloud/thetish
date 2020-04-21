@@ -1,3 +1,5 @@
+https://developers.google.com/calendar/quickstart/python
+
 Authorizing requests with OAuth 2.0
 All requests to the Google Calendar API must be authorized by an authenticated user.
 
