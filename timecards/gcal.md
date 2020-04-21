@@ -25,7 +25,7 @@ detailed information about flows for various types of applications, see Google's
 
 Here's the OAuth 2.0 scope information for the Google Calendar API:
 
-https://www.googleapis.com/auth/calendar	read/write access to Calendars
+https://www.googleapis.com/auth/calendar	read/write access to Calendars -----
 https://www.googleapis.com/auth/calendar.readonly	read-only access to Calendars
 https://www.googleapis.com/auth/calendar.events	read/write access to Events
 https://www.googleapis.com/auth/calendar.events.readonly	read-only access to Events
